@@ -1,0 +1,171 @@
+﻿@{ 
+    var Count = ViewBag.Count;
+}
+
+<style>
+    .user_cart_count {
+        background-color: #FF4134;
+        border-radius: 50%;
+        width: 18px;
+        height: 18px;
+        line-height: 18px;
+        display: block;
+        position: absolute;
+        color: #fff;
+        text-align: center;
+        top: -10px;
+        right: -7px;
+        font-weight: normal;
+        font-size: 11px;
+    }
+
+</style>
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+
+    <title>The Top Website </title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/assets/img/favicon.png" rel="icon">
+    <link href="~/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="~/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="~/assets/vendor/aos/aos.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    * Template Name: Medicio - v2.1.1
+    * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Top Bar ======= -->
+    <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
+        <div class="container d-flex align-items-center justify-content-between">
+            <div class="d-flex align-items-center">
+                <a href="" style="color:white"><i class="icofont-email"></i> Email: HR@TheTop.com </a>
+            </div>
+            <div class="d-flex align-items-center">
+                <i class="icofont-phone"></i> Call us : 79699988
+            </div>
+
+        </div>
+    </div>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+
+            <a href="" class="logo mr-auto"><img src="~/img/logo.png" style="height:50px; width:150px" alt=""></a>
+
+
+            <nav class="nav-menu d-none d-lg-block">
+                <ul>
+                    <li><a href="/Coupons/ShowCoupons">discount code</a></li>
+                    <li><a href="/Customers/ProductForSale">Products For Sale</a></li>
+                    <li><a href="/Products/AddProduct">Add Products</a></li>
+                    <li><a href="/Customers/ContactUs">Conact Us </a></li>
+                    <li><a href="/Customers/Masseges">Reviews</a></li>
+                    <li><a href="/Login/Login">Logout</a></li>
+              
+                    <li>
+            <div class="d-flex align-items-center">
+                <form asp-controller="Products" asp-action="SearchAfterLogin">
+                    <input name="ProCategory" placeholder="Ex:Fashion">
+                    <input type="submit" class="btn" style="background-color: #3fbbc0; color:white" value="Search">
+                </form>
+            </div>
+        </li>
+    <li class="icofont-shopping-cart"> <abbr class="user_cart_count" id="user_cart_count"> @Count</abbr>  <a href="/Carts/CheckOut">Cart</a></li>
+                </ul>
+
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+    <br />
+    <br />
+    <br />
+    <br />
+   
+   
+
+
+
+
+    <main id="main">
+       
+
+        @RenderBody()
+
+    </main><!-- End #main -->
+   
+    
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+
+
+        <div class="footer-top">
+
+            <center>
+                <h6> Connect with us by our social media Accounts : </h6>
+                <div class="social-links mt-3">
+                    <a href="https://www.linkedin.com/in/shifa-rababah-2a546ab5/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                    <a href="https://web.facebook.com/shifa.rababah.7" class="facebook"><i class="bx bxl-facebook"></i></a>
+                    <a href="https://www.instagram.com/shifarababah/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/shifa-rababah-2a546ab5/" class="google-plus"><i class="bx bxl-skype"></i></a>
+                    <a href="https://twitter.com/RababahShifa" class="twitter"><i class="bx bxl-twitter"></i></a>
+                </div>
+            </center>
+            <div class="copyright">
+                &copy; Copyright <strong><span>The Top Website</span></strong>. All Rights Reserved
+            </div>
+
+        </div>
+        <!-- End sidebar for Customer -->
+
+    </footer><!-- End Footer -->
+
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="~/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="~/assets/vendor/php-email-form/validate.js"></script>
+    <script src="~/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="~/assets/vendor/counterup/counterup.min.js"></script>
+    <script src="~/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="~/assets/vendor/venobox/venobox.min.js"></script>
+    <script src="~/assets/vendor/aos/aos.js"></script>
+    @RenderSection("Scripts", false)
+
+    <!-- Template Main JS File -->
+    <script src="~/assets/js/main.js"></script>
+
+</body>
+
+</html>

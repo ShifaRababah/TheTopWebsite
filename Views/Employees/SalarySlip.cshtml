@@ -1,0 +1,74 @@
+﻿@model dynamic
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutEmployee.cshtml";
+}
+<script>
+    function save() {
+        window.print();
+    }
+</script>
+<button class="btn btn-primary pull-right" style="background-color: #9c27b0; color: white;" onclick="save()">Save As Pdf</button>
+<br />
+<br />
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header card-header-primary">
+            <h4 class="card-title ">Salary Slip</h4>
+            <p class="card-category"> Here is Salary details and (Bonus & Deductions)  </p>
+
+
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead class=" text-primary">
+                        <tr>
+                            <th>
+                                Item Description
+                            </th>
+                            <th>
+                                Value
+                            </th>
+                            <th>
+                                Date
+                            </th>
+
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>Salary</td>
+                            <td>@Model.Salary</td>
+                            <td>@DateTime.Now</td>
+                        </tr>
+                        @foreach (Account item in Model.Account)
+                        {
+                            <tr>
+                                <td>
+                                    Account Description
+                                </td>
+                                <td>
+                                    @item.Value
+                                </td>
+                                <td>
+                                    @item.Date
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+                <hr />
+                <br />
+                <div style="text-align:center; color:darkorchid; font-size:20px;">
+                    Net Pay = @Model.sum
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

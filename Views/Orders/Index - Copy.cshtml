@@ -1,0 +1,76 @@
+﻿@model IEnumerable<TheTopWebsite.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header card-header-primary">
+            <h4 class="card-title ">Sells Reports</h4>
+            <p class="card-category"> Here is a Profits Reports for Sells </p>
+            <form method="post" asp-action="UpdateDate">
+                <input type="date" name="Start" />
+                <input type="date" name="End" />
+                <input type="submit" />
+            </form>
+
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead class=" text-primary">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Total)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Date)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Profit)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Customer)
+                            </th>
+
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Total)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Date)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Profit)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Customer.Email)
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                   
+                </table>
+                <hr />
+                <br />
+                <div style="text-align:center; color:darkorchid; font-size:20px;">
+                    Sum Of Profit = @ViewBag.SumProfit
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

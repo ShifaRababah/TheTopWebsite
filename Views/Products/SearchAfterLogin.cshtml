@@ -1,0 +1,51 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutCustomer.cshtml";
+}
+
+
+@model List<Product>
+
+<body>
+    <section id="featured-services" class="featured-services">
+        <div class="container aos-init aos-animate" data-aos="fade-up">
+            <h2>@ViewBag.cat</h2>
+
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin:20px;">
+                        <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <div class="icon-box aos-init aos-animate" style="width:100%" data-aos="fade-up" data-aos-delay="100">
+                                <div class="member-img">
+                                    <img src=@Url.Content("~/imgs/" + item.Image) style="height:300px;" class="img-fluid" alt="">
+                                </div>
+                                <br />
+                                <div class="member-info">
+                                  
+
+                                    <h5>@item.Title</h5>
+
+                                    <p class="mb-2 text-muted text-uppercase small">@item.Date</p>
+                                    <p class="mb-3 text-muted text-uppercase small">@item.Topic</p>
+                                    
+                                    <p class="mb-0"><span><strong> Price = @item.Price JOD</strong></span></p>
+                                    <br />
+                                    <center>
+                                        <a class="btn" style="background-color: #304646; color: white" asp-controller="Products" asp-action="AddCart" asp-route-id="@item.Id">Add to Cart</a>
+
+                                    </center>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+
+</body>

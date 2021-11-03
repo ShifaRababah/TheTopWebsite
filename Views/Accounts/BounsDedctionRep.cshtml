@@ -1,0 +1,80 @@
+﻿@model dynamic
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+<script>
+    function save() {
+        window.print();
+    }
+</script>
+<button class="btn btn-primary pull-right" style="background-color: #9c27b0; color: white;" onclick="save()">Save As Pdf</button>
+
+<div class="container">
+
+    <div class="fa-pull-left">
+        <form method="get" asp-action="BounsDedctionRep">
+            <input type="date" name="Start" />
+            <input type="date" name="End" />
+            <input class="btn" style="background-color: #9c27b0; color: white;" type="submit" />
+        </form>
+    </div>
+    <br />
+    <br />
+    <br />
+
+
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header card-header-primary">
+                <h4 class="card-title "> Bouns Deduction Reports </h4>
+                <p class="card-category"> Here is a Bouns Deduction For all Employees </p>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class=" text-primary">
+                            <tr>
+                                <th>
+                                    Value
+                                </th>
+                                <th>
+                                    Description
+                                </th>
+                                <th>
+                                    Date
+                                </th>
+                                <th>
+                                    Employee
+                                </th>
+
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (Account item in Model.Accounts)
+                            {
+
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Value)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Description)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Date)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.employee.Email)
+                                </td>
+
+                            </tr>
+                            }
+                        </tbody>
+
+                    </table>
+
+

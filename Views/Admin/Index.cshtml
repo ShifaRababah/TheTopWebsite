@@ -1,0 +1,88 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    var SumCustomer = ViewBag.SumOfCustomer;
+    var SumProduct = ViewBag.SumOfProduct;
+    var SumEmployees = ViewBag.SumOfEmployees;
+
+}
+
+<form asp-action="SaveEndTime">
+    <button type="submit" class="btn btn-primary pull-right"> End Time</button>
+</form>
+<form asp-action="SaveStartTime">
+    <button type="submit" class="btn btn-primary pull-right"> Start Time </button>
+</form>
+<div class="clearfix"></div>
+<br />
+<div class="row">
+    <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-header card-header-warning card-header-icon">
+                <div class="card-icon">
+                    <i class="material-icons">content_copy</i>
+                </div>
+                <p class="card-category">Sum of Customer</p>
+                <h3 class="card-title">
+                    @SumCustomer
+                    <small>Customers</small>
+                </h3>
+            </div>
+            <div class="card-footer">
+                <div class="stats">
+                    <i class="material-icons">date_range</i> Last Update
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-header card-header-success card-header-icon">
+                <div class="card-icon">
+                    <i class="material-icons">store</i>
+                </div>
+                <p class="card-category">Sum of Products</p>
+                <h3 class="card-title">
+                    @SumProduct
+                    <small>Products</small>
+                </h3>
+            </div>
+            <div class="card-footer">
+                <div class="stats">
+                    <i class="material-icons">date_range</i> Last Update
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-header card-header-success card-header-icon">
+                <div class="card-icon">
+                    <i class="material-icons">store</i>
+                </div>
+                <p class="card-category">Sum of Emplyees</p>
+                <h3 class="card-title">
+                    @SumEmployees
+                    <small>Emplyees</small>
+                </h3>
+            </div>
+            <div class="card-footer">
+                <div class="stats">
+                    <i class="material-icons">date_range</i> Last Update
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<br />
+<br />
+
+
+

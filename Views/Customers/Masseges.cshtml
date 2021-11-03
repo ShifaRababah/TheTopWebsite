@@ -1,0 +1,51 @@
+﻿
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutCustomer.cshtml";
+}
+
+
+@{
+    ViewData["Title"] = "Masseges";
+}
+
+
+
+
+@model List<ContactUs>
+<section id="testimonials" class="testimonials">
+    <div class="container aos-init aos-animate" data-aos="fade-up">
+        <br />  
+        <br />  
+        <div class="section-title">
+            <h5 style="color: #3fbbc0">Customers Reviews :</h5>
+        </div>
+        @foreach (var item in Model)
+        {
+            <center>
+                <div class="owl-item cloned col-8">
+                    <div class="testimonial-item">
+                        <div class="text-left">                           
+
+                            <h4>@item.Name</h4>
+
+                            <h4>@item.Email</h4>
+                        </div>
+                        <p style="font-size:20px">
+
+                            @item.Message
+
+                        </p>
+
+                    </div>
+                </div>
+                <hr />
+                <br />
+                <br />
+            </center>
+        }
+    </div>
+</section>
+

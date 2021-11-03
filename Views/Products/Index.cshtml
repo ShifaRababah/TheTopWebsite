@@ -1,0 +1,77 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model IEnumerable<TheTopWebsite.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+    <div class="container">
+
+
+        <p>
+            <a asp-action="Create" class="btn" style="background-color: #9c27b0; color: white;">Add New Product</a>
+        </p>
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Title)
+                    </th>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Image)
+                    </th>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Date)
+                    </th>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Topic)
+                    </th>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Price)
+                    </th>
+                    <th style="width:10%">
+                        @Html.DisplayNameFor(model => model.Category)
+                    </th>
+                   
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </td>
+                        <td>
+                            <img src=@Url.Content("~/imgs/" + item.Image) style="height:100px; width:100px;" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Date)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Topic)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Category.Name)
+                        </td>
+                       
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" >Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+

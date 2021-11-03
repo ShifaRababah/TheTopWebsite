@@ -1,0 +1,44 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutCustomer.cshtml";
+}
+
+
+
+@{
+    ViewData["Title"] = "ContactUs";
+}
+@model ContactUs
+
+<br />
+<br />
+
+
+<div class="container" style="margin-bottom:25px; margin-top:25px">
+    <div class="col-10">
+        <form asp-action="SaveContactUs">
+            <div class="form-row">
+                <div class="col form-group">
+                    <input type="text" asp-for="Name" required class="form-control" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col form-group">
+                    <input type="email" class="form-control" required asp-for="Email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" asp-for="Subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject">
+                <div class="validate"></div>
+            </div>
+            <div class="form-group">
+                <textarea class="form-control" asp-for="Message" required rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <div class="validate"></div>
+            </div>
+
+            <div><button class="btn" type="submit" style="background-color: #3fbbc0; color:white">Send Message</button></div>
+        </form>
+    </div>
+</div>

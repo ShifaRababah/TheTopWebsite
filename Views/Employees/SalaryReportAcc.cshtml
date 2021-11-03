@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TheTopWebsite.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+
+}
+
+<script>
+    function save() {
+        window.print();
+    }
+</script>
+<button class="btn btn-primary pull-right" style="background-color: #9c27b0; color: white;" onclick="save()">Save As Pdf</button>
+<br />
+<br />
+<br />
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header card-header-primary">
+            <h4 class="card-title ">Salary Reports</h4>
+            <p class="card-category"> Here is a Salary Reports for Employees </p>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead class=" text-primary">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Name)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.PhoneNumber)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Salary)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Position)
+                            </th>
+
+
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Email)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Salary)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Position)
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+                <hr />
+                <br />
+                <div style="text-align:center; color:darkorchid; font-size:20px;">
+                    Sum Of Salary = @ViewBag.SumSalary
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1143 @@
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.StaticWebAssets.xml
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.exe
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.deps.json
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.json
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.dev.json
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.pdb
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfo.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.xml
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheTopWebsite.styles.css
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.input.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.output.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorCoreGenerate.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CopyComplete
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.dll
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.pdb
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.genruntimeconfig.cache
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductForSale.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Masseges.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchByName.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Create.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Delete.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Details.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Edit.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Create.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Delete.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Details.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmployee.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchAfterLogin.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ProductForSale.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Products.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ShowAllProducts.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Home.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ContactUs.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Masseges.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\Index.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccountant.cshtml.g.cs
+C:\Users\user\source\repos\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\CustomersInfo.cshtml.g.cs
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.StaticWebAssets.xml
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.exe
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.deps.json
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.json
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.dev.json
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.AssemblyReference.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfoInputs.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfo.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CoreCompileInputs.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.Manifest.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.xml
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheTopWebsite.styles.css
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.input.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.output.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorCoreGenerate.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\CustomersInfo.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Create.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Delete.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Details.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Edit.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ContactUs.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Home.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Masseges.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ProductForSale.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Products.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ShowAllProducts.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Masseges.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductForSale.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Create.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Delete.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Details.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Edit.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchAfterLogin.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchByName.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccountant.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmployee.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cache
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cs
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CopyComplete
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.genruntimeconfig.cache
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.StaticWebAssets.xml
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.exe
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.deps.json
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.json
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.dev.json
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\test TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfoInputs.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfo.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CoreCompileInputs.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.Manifest.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.xml
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheTopWebsite.styles.css
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.input.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.output.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorCoreGenerate.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\CustomersInfo.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ContactUs.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Home.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Masseges.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ProductForSale.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Products.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ShowAllProducts.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Masseges.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductForSale.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchAfterLogin.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchByName.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccountant.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmployee.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CopyComplete
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.genruntimeconfig.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.AssemblyReference.cache
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\AddProduct.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Create.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Delete.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Details.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Edit.cshtml.g.cs
+E:\test TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.StaticWebAssets.xml
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.exe
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.deps.json
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.json
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.dev.json
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfoInputs.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfo.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CoreCompileInputs.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.Manifest.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.xml
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheTopWebsite.styles.css
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.input.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.output.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorCoreGenerate.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\CustomersInfo.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ContactUs.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Home.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Masseges.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ProductForSale.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Products.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Masseges.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductForSale.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\AddProduct.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchAfterLogin.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchByName.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccountant.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmployee.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CopyComplete
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.dll
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.pdb
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.genruntimeconfig.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\TaskForEmp.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.AssemblyReference.cache
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalaryReport.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\SuccessPurchase.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\FailedPurchase.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\ShowCoupons.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\CheckOut.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index - Copy.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalarySlip.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalaryReportAcc.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\SellsReport.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Create.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Delete.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Details.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Edit.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Index.cshtml.g.cs
+E:\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\BounsDedctionRep.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.StaticWebAssets.xml
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.exe
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.deps.json
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.json
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.runtimeconfig.dev.json
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.pdb
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.AssemblyInfo.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TheTopWebsite.StaticWebAssets.xml
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\TheTopWebsite.styles.css
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.input.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.TagHelpers.output.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\CustomersInfo.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accountant\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\BounsDedctionRep.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\CheckOut.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\FailedPurchase.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Carts\SuccessPurchase.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Coupons\ShowCoupons.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ContactUs.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Home.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Masseges.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\ProductForSale.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Products.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalaryReport.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalaryReportAcc.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employees\SalarySlip.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Masseges.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductForSale.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\InfoHomePages\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Logins\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index - Copy.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Orders\SellsReport.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\AddProduct.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchAfterLogin.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Products\SearchByName.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccountant.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmployee.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TaskEmps\TaskForEmp.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Create.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Details.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\TimeSheets\Index.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.Views.pdb
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.csproj.CopyComplete
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.dll
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.pdb
+C:\Users\user\Desktop\Tahaluf Training\First Project\LastCopy TheTop\TheTopWebsite\obj\Debug\netcoreapp3.1\TheTopWebsite.genruntimeconfig.cache
